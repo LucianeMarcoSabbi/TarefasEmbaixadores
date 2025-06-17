@@ -15,7 +15,6 @@ const perguntas = [
             {
                 texto: "Isso é motivador!",
                 afirmacao: "Percebi que ela poderia me ajudar em muitas coisas",       
-."
             }
         ]
     },
