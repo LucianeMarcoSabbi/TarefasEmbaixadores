@@ -24,7 +24,6 @@ const perguntas = [
             {
                 texto: "Sim, acho que vai ser importante para o meu futuro!",
                 afirmacao: "Consegui utilizar para aprender várias coisas."
-"
             },
             {
                 texto: "Não, acredito que não vou precisar disso para nada!",
