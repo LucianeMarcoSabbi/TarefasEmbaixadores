@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Isso é motivador!",
-                afirmacao: "Percebi que ela poderia me ajudar em muitas coisas",       
+                afirmacao: "Percebi que ela poderia me ajudar em muitas coisas."     
             }
         ]
     },
@@ -23,12 +23,12 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, acho que vai ser importante para o meu futuro!",
-                afirmacao: "Consegui utilizar para aprender várias coisas",
+                afirmacao: "Consegui utilizar para aprender várias coisas."
 "
             },
             {
                 texto: "Não, acredito que não vou precisar disso para nada!",
-                afirmacao: "Acredito que posso trabalhar com várias coisas que não precisarei de tecnologia",
+                afirmacao: "Acredito que posso trabalhar com várias coisas que não precisarei de tecnologia."
             }
         ]
     },
